@@ -1,3 +1,1 @@
 # Solgig
-# escrow-solana
-# Solgig
